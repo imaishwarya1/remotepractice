@@ -1,6 +1,10 @@
 package com.pptest;
 
+import org.testng.annotations.Test;
+
 public class Inserttest {
-@test
-public void inser
+@Test
+public void inserttest() {
+	System.out.println("product");
+}
 }
